@@ -1,0 +1,34 @@
+Numbers
+  - Show
+  - Floats and integers
+
+Arithmetic
+  - +,-,*,/
+  - upgrading integers to floats
+  - downgrading floats to integers
+
+Comparisons
+  - >, <, ==, != , <=, >=
+
+Logic
+  - &&, ||, !
+
+Conditionals
+  - if, else if, else
+
+Variables
+  - assignment
+  - multiple variables
+  - undefinded variables
+  - reassigning
+  - incrementing
+
+Loops
+  - while
+  - do
+  - for
+
+
+
+
+
