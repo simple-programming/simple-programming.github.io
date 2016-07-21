@@ -1,3 +1,7 @@
+// Expecting
+//    bower install jquery
+//    bower install angular
+
 module.exports = function(grunt) {
 
   grunt.initConfig({
