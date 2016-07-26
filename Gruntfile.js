@@ -12,6 +12,7 @@ module.exports = function(grunt) {
           'js/main.min.js' : [
             'bower_components/jquery/dist/jquery.min.js',
             'bower_components/angular/angular.min.js',
+            'bower_components/angular-cookies/angular-cookies.min.js',
             'js/ui.js',
             'js/simple.js'
           ]
